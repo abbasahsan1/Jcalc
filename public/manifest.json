@@ -1,0 +1,21 @@
+{
+  "name": "Jahez Calculator",
+  "short_name": "JahezCalc",
+  "description": "A satirical dowry calculator for cultural awareness and education",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF4EF",
+  "theme_color": "#1C6E4A",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
